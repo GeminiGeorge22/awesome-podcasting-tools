@@ -62,6 +62,7 @@
 - **[Podtrac](https://analytics.podtrac.com/)** - A free podcast analytics tool.
 - **[Apple Podcasts Connect](https://podcastsconnect.apple.com/)** - Manage and analyze your podcast's performance on Apple Podcasts.
 - **[Spotify for Podcasters](https://podcasters.spotify.com/)** - Insights and analytics for podcasts on Spotify.
+- **[Spotify Play Count Scraper](https://apify.com/publicrecords/spotify-play-count-scraper)** - Play counts for every track on a Spotify track, album, artist or playlist link, plus monthly listeners (Apify Actor, API + MCP).
 
 ## Podcast Monetization Platforms
 
